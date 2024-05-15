@@ -3,3 +3,4 @@ File Cleaner project is only work on Linux O.S.
   1 when program run provide Directory name on which you have to clean the Files
   It will delete the 0 size files
   It will delete the files having delete the files having the same data.
+  This will work on only the file having less than 1000 bytes size
